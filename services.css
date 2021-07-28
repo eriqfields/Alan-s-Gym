@@ -1,0 +1,47 @@
+
+/* div{
+  text-align: center
+} */
+li {
+  list-style-type: none;
+}
+li {
+  background-color: whitesmoke;
+}
+nav-btn{
+  float: left;
+  list-style: none;
+}
+body{
+    background-image: url(https://images.unsplash.com/photo-1561214078-f3247647fc5e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjF8fGd5bXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80);
+    background-size: cover;
+  }
+li{
+  border-width: auto;
+ display: inline-block;
+  background-color: whitesmoke;
+}
+li{
+  border-style: groove;
+  padding: 10px;
+}
+
+p{
+  border-style: groove;
+  padding: 10px;
+  background-color: whitesmoke;
+}
+
+body{
+  margin: auto;
+}
+/* Youtube-section{
+margin-right: 100px;
+} */
+#Youtube{
+  display: flex;
+  justify-content: center;
+  width: 80%;
+  padding: 20px;
+  margin: auto;
+}
